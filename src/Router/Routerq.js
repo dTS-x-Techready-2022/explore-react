@@ -45,7 +45,7 @@ const Routerq = () => {
                 }
             ]
 
-        },
+        }, 
         {
             path : '/tidakditemukan',
             element : <h1>tidakditemukan</h1>
