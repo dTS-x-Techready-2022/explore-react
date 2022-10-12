@@ -1,0 +1,10 @@
+#parent {
+    /* margin: 0 10px; */
+    display: 'd-flex';
+}
+
+.navbar > * {
+    padding-left: 10px;
+    /* margin: 10px 0; */
+    /* display: 'd-flex'; */
+}
