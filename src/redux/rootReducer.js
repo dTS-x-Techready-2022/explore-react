@@ -1,7 +1,9 @@
 import auth from './auth'
+import email from './email'
 
 const rootReducer = {
-    auth
+    auth,
+    email
 }
 
 export default rootReducer
