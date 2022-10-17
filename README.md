@@ -22,3 +22,8 @@ Please make an unique website by your own, feel the sense of coding
 AHA, I want to inform that you're allowed to clone someone's website or follow someone's YouTube video to make a website using React JS
 
 Remember the requirement, Happy Coding!
+
+
+# edit, add gif for demo project
+
+![Demo Project Explore React](https://user-images.githubusercontent.com/25810735/196246541-3866d973-5597-468d-b872-d4f2c93e1070.gif)
